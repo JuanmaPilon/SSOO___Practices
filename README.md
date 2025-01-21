@@ -1,1 +1,3 @@
-Some mini scripts that were obligatory work for the subject Operative Systems (SSOO). Scripts were made in Python.
+# Sistemas Operativos
+
+Varias practicas de la materia SSOO. Se utilizo Python para trabajar en las tareas.
